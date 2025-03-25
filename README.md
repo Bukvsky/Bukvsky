@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at PJATK<br>Passionate about data<br>Feel good at java and python<br>Triathlete
+Student at PJATK<br>I type in keyboard and then something occurs
 
 
 ## 🌐 Socials:
