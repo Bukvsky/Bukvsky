@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at PJATK<br>I type in keyboard and then something occurs
+Engineering student at PJATK<br>I type in keyboard and then something occurs
 
 
 ## 🌐 Socials:
